@@ -1,0 +1,36 @@
+.imgcenter{
+    border: 50px; color: blue;}
+
+.rizz{font-family: cursive;
+    border-color: blueviolet;
+    background-color: aqua;
+    font-size: large;}
+
+h1 {
+    font-size: 24px;
+    color: blue;
+    font-weight: bold;
+  }
+  
+.my-class {
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
+#my-id {
+    text-align: center;
+  }
+
+h5 {background-color: orchid;}
+
+.background {opacity: 70%;}
+
+li{
+    font-weight: normal;
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+    font-style: normal;
+}
